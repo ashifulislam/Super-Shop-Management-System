@@ -13,9 +13,9 @@ It is a project that was created by java programming language. As a result to co
 4. Finally i discovered all the installment process and accept license aggrement
 ## Usage
 1. Go to home page
-2. See all information about product and choose products 
+2. See all information about product and choose products from product list option
 3. Purchase from the buy option
-4. Search any product do you want
+4. Search any product do you want from the search option.
 ## History
 I completed this project when i was in 5th semester.
 To complete my project i took 4 month.
