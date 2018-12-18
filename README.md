@@ -27,7 +27,11 @@ I did not need any cost to complete my project.
 Not allowed
 ## Acknowledgement
 I would like to express my profound appreciation to all those who provided me with the possibility to complete this project. Special gratitude I give to our Ms. Farzana Sadia madam, whose contribution in stimulating suggestions and encouragement, helped me to commensurate my project.
+## Deployment
+Not included
 ## Contributing codes
 Any and all contributions to the project are welcome.
 Super shop management system used across the world primarily by organizations with a customers online buying purpose so you can have real impact!
+## Versioning 
+Not included in this project.
 
