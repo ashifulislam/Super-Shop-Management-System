@@ -23,6 +23,8 @@ I completed this project when i was in 5th semester.
 To complete my project i took 4 month.
 This project is implemented totally based on object oriented programming language 
 I did not need any cost to complete my project.
+## License
+Not allowed
 ## Acknowledgement
 I would like to express my profound appreciation to all those who provided me with the possibility to complete this project. Special gratitude I give to our Ms. Farzana Sadia madam, whose contribution in stimulating suggestions and encouragement, helped me to commensurate my project.
 ## Contributing codes
